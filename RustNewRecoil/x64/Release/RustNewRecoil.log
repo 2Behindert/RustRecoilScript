@@ -1,0 +1,33 @@
+﻿cl : command line  warning D9002: ignoring unknown option '-Xclang'
+cl : command line  warning D9002: ignoring unknown option '-flegacy-pass-manager'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-sub'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-split'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-fla'
+cl : command line  warning D9002: ignoring unknown option '-mllvm'
+cl : command line  warning D9002: ignoring unknown option '-bcf'
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_dx9.cpp
+  imgui_impl_win32.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Main.cpp
+C:\Users\2behi\source\repos\Artichoke Recoil Script\Main.cpp(224,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2behi\source\repos\Artichoke Recoil Script\Main.cpp(226,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2behi\source\repos\Artichoke Recoil Script\Main.cpp(228,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2behi\source\repos\Artichoke Recoil Script\Main.cpp(230,28): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2behi\source\repos\Artichoke Recoil Script\Main.cpp(232,26): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\2behi\source\repos\Artichoke Recoil Script\Main.cpp(249,92): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\2behi\source\repos\Artichoke Recoil Script\Main.cpp(311,57): warning C4305: 'argument': truncation from 'double' to 'float'
+  Generating code
+  1878 of 1886 functions (99.6%) were compiled, the rest were copied from previous compilation.
+    48 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  RustNewRecoil.vcxproj -> C:\Users\2behi\source\repos\Artichoke Recoil Script\x64\Release\RustNewRecoil.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
